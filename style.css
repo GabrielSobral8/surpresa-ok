@@ -4,7 +4,7 @@ body {
   padding: 0;
   background-color: #f0f0f0;
   text-align: center;
-  background-image: url('surpresaFoto.heic');
+  background-image: url('surpresaFoto.jpg');
   background-repeat: repeat;
   background-size: cover;
 }
@@ -65,6 +65,12 @@ a {
 
 a:hover {
   text-decoration: underline;
+}
+
+/* Heart styles */
+.heart {
+  color: #ff66a3; /* Pink color for hearts */
+  font-size: 24px;
 }
 
 /* Heart styles */
