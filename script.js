@@ -32,5 +32,5 @@ function getCorrectAnswer(questionNumber) {
 
 function revealSurprise() {
   document.getElementById('surprise').style.display = 'block';
-  document.getElementById('surprise').innerHTML = 'The surprise is... <a href="https://www.instagram.com/teamomucholittlelion">Te Amo</a>';
+  document.getElementById('surprise').innerHTML = 'The surprise is... <a href="https://www.instagram.com/teamolittlelion">Click Here</a>';
 }
